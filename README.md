@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine-Learning Jupyter Notebooks
 ---
 #### For testing purpose, this is the second REPO which stores my Jyputer Notebooks for students.
   

@@ -1,4 +1,5 @@
 # Machine-Learning
- - For testing, this is the first Jyputer Notebook uploaded to my repo. 
+ - For testing purpose, this is the second REPO which stores my Jyputer Notebooks for students.
+ - I will uploaded my machine learning codes periodically to this repo. 
 
- - Later on, there are more notebooks available, mainly on machine learning 
+ - This series inclues Regression, Decision Trees, Neural Networks, SVM, Deep Learning ... 

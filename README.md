@@ -6,6 +6,7 @@
  
  * **[02. Polynomial Regression](https://github.com/CFSun/Machine_Learning/blob/master/02.%20Polynomial%20Regression.ipynb)**
  
+ * **[03. Logistic Regression](()**
  
  
  #### I will uploaded my machine learning codes periodically to this repo. This series inclues Regression, Decision Trees, Neural Networks, SVM, Deep Learning ... 

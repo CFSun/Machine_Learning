@@ -8,20 +8,20 @@
  
  * **[03. Logistic Regression](https://github.com/CFSun/Machine_Learning/blob/master/03.%20Logistic_regression.ipynb)**
  
- * **[04. ]
- 
+ * **[04. Kernel Regression]
+ (https://github.com/CFSun/Machine_Learning/blob/master/04.%20Kernel%20Regression.ipynb)
  
  #### I will uploaded my machine learning codes periodically to this repo, inclues:
- **Decision Trees, 
- **Random Forest
- **Neural Networks
- **SVM
- **Bayesian
- **K-Mean
- **Clustering
- **Recommendation
- **Deep Learning
- **Image Recognization
- **Time Series
- **More
+ **Decision Trees  
+ **Random Forest  
+ **Neural Networks  
+ **SVM  
+ **Bayesian  
+ **K-Mean  
+ **Clustering  
+ **Recommendation  
+ **Deep Learning  
+ **Image Recognization  
+ **Time Series  
+ **More  
  

@@ -15,7 +15,7 @@
    
    
  -----
- #### I will uploaded my machine learning codes periodically to this repo, inclues:
+ #### More machine learning codes will be uploaded periodically to this repo, inclues:
  * **Decision Trees**  
  * **Random Forest**  
  * **Neural Networks**  

@@ -10,6 +10,11 @@
  
  * **[04. Kernel Regression](https://github.com/CFSun/Machine_Learning/blob/master/04.%20Kernel%20Regression.ipynb)**
  
+ * **[05. LASSO and  Ridge Regularizations]
+ 
+   
+   
+ -----
  #### I will uploaded my machine learning codes periodically to this repo, inclues:
  * **Decision Trees**  
  * **Random Forest**  

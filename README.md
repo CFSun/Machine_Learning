@@ -10,7 +10,7 @@
  
  * **[04. Kernel Regression](https://github.com/CFSun/Machine_Learning/blob/master/04.%20Kernel%20Regression.ipynb)**
  
- * **[05. LASSO and  Ridge Regularizations]
+ * **[05. LASSO and  Ridge Regularizations](https://github.com/CFSun/Machine_Learning/blob/master/05.%20LASSO%20and%20Ridge%20Regularization.ipynb)**
  
    
    

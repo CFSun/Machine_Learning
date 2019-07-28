@@ -12,7 +12,7 @@
  (https://github.com/CFSun/Machine_Learning/blob/master/04.%20Kernel%20Regression.ipynb)
  
  #### I will uploaded my machine learning codes periodically to this repo, inclues:
- **Decision Trees  
+ **Decision Trees**  
  **Random Forest  
  **Neural Networks  
  **SVM  

@@ -12,7 +12,7 @@
  
  * **[05. LASSO and  Ridge Regularizations](https://github.com/CFSun/Machine_Learning/blob/master/05.%20LASSO%20and%20Ridge%20Regularization.ipynb)**
  
-   
+ * **[06. Regression Use Case]()**   
    
  -----
  #### More machine learning codes will be uploaded periodically to this repo, inclues:
